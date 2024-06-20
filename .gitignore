@@ -1,3 +1,4 @@
 *.csv
 miruns/
 catboost_info/
+.environment.yml
