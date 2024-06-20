@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/temp/DataScience/projet/03_IG_01_DATA_SCIENCE/mlruns/0/d621611cd5d64555abe8a2aa7f1eb4b3/artifacts
+end_time: 1718889822187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d621611cd5d64555abe8a2aa7f1eb4b3
+run_name: Decision Tree Regressor
+run_uuid: d621611cd5d64555abe8a2aa7f1eb4b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718889817308
+status: 3
+tags: []
+user_id: Griggio

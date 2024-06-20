@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/temp/DataScience/projet/03_IG_01_DATA_SCIENCE/mlruns/0/bddeb7cd077b448cacbdca8e6cb16ee8/artifacts
+end_time: 1718889817292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bddeb7cd077b448cacbdca8e6cb16ee8
+run_name: Lasso Regression
+run_uuid: bddeb7cd077b448cacbdca8e6cb16ee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718889812743
+status: 3
+tags: []
+user_id: Griggio

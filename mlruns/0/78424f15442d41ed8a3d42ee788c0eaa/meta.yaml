@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/temp/DataScience/projet/03_IG_01_DATA_SCIENCE/mlruns/0/78424f15442d41ed8a3d42ee788c0eaa/artifacts
+end_time: 1718889828916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78424f15442d41ed8a3d42ee788c0eaa
+run_name: XGBoost Regressor
+run_uuid: 78424f15442d41ed8a3d42ee788c0eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718889822204
+status: 3
+tags: []
+user_id: Griggio

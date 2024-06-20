@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/temp/DataScience/projet/03_IG_01_DATA_SCIENCE/mlruns/0/f928967ed7734b0295a40258e39e7b93/artifacts
+end_time: 1718889836229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f928967ed7734b0295a40258e39e7b93
+run_name: CatBoost Regressor
+run_uuid: f928967ed7734b0295a40258e39e7b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718889828936
+status: 3
+tags: []
+user_id: Griggio

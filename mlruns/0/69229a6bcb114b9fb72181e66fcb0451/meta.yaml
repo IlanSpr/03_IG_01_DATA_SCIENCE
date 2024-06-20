@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/temp/DataScience/projet/03_IG_01_DATA_SCIENCE/mlruns/0/69229a6bcb114b9fb72181e66fcb0451/artifacts
+end_time: 1718890087066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69229a6bcb114b9fb72181e66fcb0451
+run_name: Ridge Regressor
+run_uuid: 69229a6bcb114b9fb72181e66fcb0451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718890082609
+status: 3
+tags: []
+user_id: Griggio
