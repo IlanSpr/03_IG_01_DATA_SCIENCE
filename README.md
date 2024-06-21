@@ -3,6 +3,9 @@ Compétition Kaggle dont le l'objectif est de prédire les prix de vente en prat
 
 L'objectif du projet est de configurer une pipeline de données, d'essayer différents modèles de régression et de soumettre les résultats à Kaggle, le tout dans un notebook.
 
+# Prérequis
+- Python 3.8.19
+
 ## Équipe 03_IG_01
 - Springenfeld Ilan
 - Montandon Arthur
